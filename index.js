@@ -15,12 +15,12 @@ function sayHiToGrandma (string){
   var yesAnswer = "YES INDEED!";
   var loveAnswer = "I love you, too.";
     if (string.toLowerCase(string) === string){
-      return cantAnswer
+      return cantAnswer;
     }
     else if (string.toUpperCase(string) === string){
-      return yesAnswer
+      return yesAnswer;
     }
-    else if (string.)
+    else if (string.toLowerCase(string) === string){
+      return loveAnswer;
     }
-    
 }
